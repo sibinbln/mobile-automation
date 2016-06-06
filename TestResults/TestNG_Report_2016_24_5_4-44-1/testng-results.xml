@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="78210" started-at="2016-05-24T11:06:09Z" finished-at="2016-05-24T11:07:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="78210" started-at="2016-05-24T11:06:09Z" finished-at="2016-05-24T11:07:27Z">
+      <class name="TestCases.Flipkart">
+        <test-method status="PASS" signature="testFlipkart()[pri:0, instance:TestCases.Flipkart@6108b2d7]" name="testFlipkart" duration-ms="78195" started-at="2016-05-24T16:36:09Z" finished-at="2016-05-24T16:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFlipkart -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:TestCases.Flipkart@6108b2d7]" name="teardown" is-config="true" duration-ms="0" started-at="2016-05-24T16:37:27Z" finished-at="2016-05-24T16:37:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestCases.Flipkart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
